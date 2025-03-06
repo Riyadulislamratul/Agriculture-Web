@@ -1,0 +1,45 @@
+nav{
+    background-color: blue;
+}
+.crop{
+    margin-left: 10px;
+}
+.navbar-custom{
+    border-radius: 10px;
+}
+footer {
+    background-color: #0022ff;
+    color: black;
+    text-align: center;
+    padding: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.farmingGuide h2{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+} 
+
+.card a{
+    text-decoration: none;
+}
+.cropdetails{
+    margin-top: 100px;
+}
+.farmingGuide p{
+    text-align: center;
+}
+video{
+    width: 323px;
+    height: 209px;
+}
+
+.copyright {
+    color: rgb(255 255 255);
+    font-size: 14px;
+    margin-top: 0px;
+    text-align: center;
+    height: 20px;
+}
